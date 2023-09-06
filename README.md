@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sujims1969@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2>Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/sujimarium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujimarium" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suji-marium-saji-1a849720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suji-marium-saji-1a849720b" height="30" width="40" /></a>
