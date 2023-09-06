@@ -46,9 +46,8 @@
         
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikvijay5227"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suji-marium"/>
   </a>
 </p>
     </div>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suji-marium&" alt="suji-marium" /></p>
