@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suji Marium Saji</h1>
-<img src="https://github.com/suji-marium/suji-marium/blob/main/suji.gif" alt="logo.gif"/>
+<img src="https://github.com/suji-marium/suji-marium/blob/main/suji.gif" width="50%" alt="logo.gif" class="center"/>
     <br/>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suji-marium&label=Profile%20views&color=0e75b6&style=flat" alt="suji-marium" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sujimarium" target="blank"><img src="https://img.shields.io/twitter/follow/sujimarium?logo=twitter&style=for-the-badge" alt="sujimarium" /></a> </p>
