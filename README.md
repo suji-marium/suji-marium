@@ -35,8 +35,20 @@
         <h2><img width="45" height="45" align="center" src="https://giffiles.alphacoders.com/576/57604.gif" /> My Stats</h2>
  </div>
  <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suji-marium&show_icons=true&locale=en&layout=compact" alt="suji-marium" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suji-marium&show_icons=true&locale=en" alt="suji-marium" /></p>
-
+<div>
+     <p align="center">
+          <img height="160" alt="Suji's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=suji-marium&show_icons=true&hide_border=true&theme=light&count_private=true" />
+           <img alt="Suji's Github Stats" height="160"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suji-marium&theme=light&layout=compact&langs_count=8&hide_border=true)" />
+     </p>  
+        
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikvijay5227"/>
+  </a>
+</p>
+    </div>
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suji-marium&" alt="suji-marium" /></p>
