@@ -29,6 +29,10 @@
   <a href="https://www.codechef.com/users/coec2_90"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
 </p>
 
+<div align="left">
+        <h2><img width="45" height="45" align="center" src="https://giffiles.alphacoders.com/576/57604.gif" /> My Stats</h2>
+ </div>
+ <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suji-marium&show_icons=true&locale=en&layout=compact" alt="suji-marium" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suji-marium&show_icons=true&locale=en" alt="suji-marium" /></p>
