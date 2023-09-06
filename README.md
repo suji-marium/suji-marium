@@ -23,12 +23,13 @@
 
 <h2 align="left"> 💻 Coding Profiles:</h2>
 
-
+<div>
 <p align="center">
   <a href="https://www.hackerrank.com/sujims1969"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://leetcode.com/suji_marium/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="https://www.codechef.com/users/coec2_90"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
 </p>
+</div>
 
 <div align="left">
         <h2><img width="45" height="45" align="center" src="https://giffiles.alphacoders.com/576/57604.gif" /> My Stats</h2>
