@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suji Marium Saji</h1>
-<center><img src="https://github.com/suji-marium/suji-marium/blob/main/suji.gif" width="50%" alt="logo.gif"/></center>
+<<img src="https://github.com/suji-marium/suji-marium/blob/main/suji.gif" width="70%" alt="logo.gif"/>
     <br/>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suji-marium&label=Profile%20views&color=0e75b6&style=flat" alt="suji-marium" /> </p>
